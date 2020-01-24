@@ -6,7 +6,7 @@ layout: home
 title: Training
 ---
 
-Im Sommer (März bis Oktober) trainieren wir immer **sonntags ab 14:00 Uhr im Wieburgpark**.
+Im Sommer (März bis Oktober) trainieren wir immer **sonntags ab 14:00 Uhr im Wienburgpark**.
 
 Im Winter (November bis Ende Februar) trainieren wir immer **sonntags ab 14:00 Uhr in der Kaserne an der Manfred-von-Richthofen Straße**.
 

@@ -10,7 +10,7 @@ Jugger Münster e.V.
 Heidegrund 81a
 48159 Münster
 
-##Vertreten durch:
+## Vertreten durch:
 
 1. Vorsitzender: Marcel Althoff
 2. Vorsitzender: Lukas Middendorf
