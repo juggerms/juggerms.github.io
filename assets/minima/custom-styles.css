@@ -1,0 +1,81 @@
+* {
+	margin:0;
+	padding:0;
+}
+
+body {
+	background:#000;
+	background-size:1920px;
+	font-family:Open Sans, Verdana, sans-serif !important;
+	overflow-x:hidden;
+	overflow-y:scroll;
+}
+
+p {
+	text-align:justify;
+}
+
+#header {
+	background:#000;
+	height:250px;
+	background:url(header-bg.png) bottom repeat-x #000;
+	width:100%;
+	margin:0 auto;
+	text-align:center;
+	position:relative;
+}
+
+#header h1 a.title {
+	font-family:Roboto Slab, Verdana, sans-serif !important;
+	font-size:60px;
+	font-weight:bold;
+	color:#FFF;
+	text-decoration:none;
+} @media screen and (max-width:600px) {#header h1 a {font-size:9vw;}}
+
+#logo {
+	position:absolute;
+	background-size:200px 220px;
+	background:url(header-logo.png) no-repeat;
+	width:200px;
+	height:220px;
+	left:50%;
+	margin-left:-100px;
+	top:60px;
+	z-index:9999;
+}
+
+#wrapper {
+	background:#eee;
+	padding-top:20px;
+	overflow:hidden;
+}
+
+#content {
+	max-width:800px;
+	margin:20px auto;
+	overflow:hidden;
+}
+
+#content iframe {
+	border:none;
+}
+
+#footer {
+	background:#000;
+	padding:10px 0px;
+}
+
+#copy {
+	max-width:800px;
+	margin:0 auto;
+	overflow:hidden;
+	color:#fff;
+	font-size:10px;
+	text-align:center;
+}
+
+#copy a {
+	color:#fff;
+	text-decoration:none;
+}
