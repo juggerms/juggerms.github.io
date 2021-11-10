@@ -7,13 +7,13 @@ permalink: /imprint/
 ## Angaben gemäß § 5 TMG:
 
 Jugger Münster e.V.
-Heidegrund 81a
-48159 Münster
+Gemenweg 14
+48149 Münster
 
 ## Vertreten durch:
 
-1. Vorsitzender: Marcel Althoff
-2. Vorsitzender: Lukas Middendorf
+1. Vorsitzender: Lukas Middendorf
+2. Vorsitzender: Dr. Florian Hübner
 
 ## Kontakt:
 
