@@ -5,11 +5,11 @@
 layout: home
 title: Training
 ---
-**Bis auf weiteres findet das Training im Winter 2021/22 ebenfalls im Wienburgpark statt**
+**Trainingszeiten Sommer 2022 (ab 30.03.)**
 
-Im Sommer (März bis Oktober) trainieren wir immer **sonntags ab 14:00 Uhr im Wienburgpark**.
-
-~~Im Winter (November bis Ende Februar) trainieren wir immer **sonntags ab 14:00 Uhr in der Kaserne an der Manfred-von-Richthofen Straße**.~~
+Mittwoch 18-20 Uhr im Wienburgpark (siehe Karte)
+Donnerstag 18-20 Uhr im Südpark (genauer Ort zunächst auf Anfrage)
+Sonntags 14-16 Uhr im Wienburgpark (siehe Karte)
 
 Den genauen Ort und Treffpunkt könnt ihr euch auf der nachfolgenden Karte anschauen.
 
