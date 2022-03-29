@@ -8,7 +8,9 @@ title: Training
 **Trainingszeiten Sommer 2022 (ab 30.03.)**
 
 Mittwoch 18-20 Uhr im Wienburgpark (siehe Karte)
+
 Donnerstag 18-20 Uhr im Südpark (genauer Ort zunächst auf Anfrage)
+
 Sonntags 14-16 Uhr im Wienburgpark (siehe Karte)
 
 Den genauen Ort und Treffpunkt könnt ihr euch auf der nachfolgenden Karte anschauen.
