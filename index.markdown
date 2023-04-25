@@ -5,11 +5,13 @@
 layout: home
 title: Training
 ---
-**Trainingszeiten Winter 2022 (ab 01.11.)**
+**Trainingszeiten Sommer 2023 (ab 01.04.2023)**
 
-Sonntags 14-16 Uhr im Wienburgpark (siehe Karte)
+Sonntags 14-16 Uhr im Wienburgpark
 
-Den genauen Ort und Treffpunkt könnt ihr euch auf der nachfolgenden Karte anschauen.
+Donnerstags 18-20 Uhr am Grünen Grund
+
+Die genauen Orte und Treffpunkte könnt ihr euch auf der nachfolgenden Karte anschauen.
 
 Da wir Sommer wie Winter oft auf Turniere fahren und an den entsprechenden Wochenenden das Training ausfällt,
 solltet ihr euch bei Interesse vorher bei uns melden:  [vorstand [at] jugger-muenster.de](vorstand@jugger-muenster.de)
