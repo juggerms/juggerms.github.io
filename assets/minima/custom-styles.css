@@ -16,33 +16,55 @@ p {
 }
 
 #header {
-	background:#000;
-	height:250px;
-	background:url(header-bg.png) bottom repeat-x #000;
-	width:100%;
-	margin:0 auto;
-	text-align:center;
-	position:relative;
+	position: relative;
+	height: 250px;
+	width: 100%;
 }
 
-#header h1 a.title {
-	font-family:Roboto Slab, Verdana, sans-serif !important;
-	font-size:60px;
-	font-weight:bold;
-	color:#FFF;
-	text-decoration:none;
-} @media screen and (max-width:600px) {#header h1 a {font-size:9vw;}}
+#header h1 {
+	position: absolute;
+}
+#header-bg {
+	background: url(header-background.jpg);
+	background-size: cover;
+	height: 100%;
+	width: 100%;
+	box-shadow: inset 0 -5px 5px #333333;
+	opacity: 80%;
+}
+/*#header {*/
+/*	background:#000;*/
+/*	height:250px;*/
+/*	background:url(header-bg.png) bottom repeat-x #000;*/
+/*	width:100%;*/
+/*	margin:0 auto;*/
+/*	text-align:center;*/
+/*	position:relative;*/
+/*}*/
 
-#logo {
+/*#header h1 a.title {*/
+/*	font-family:Roboto Slab, Verdana, sans-serif !important;*/
+/*	font-size:60px;*/
+/*	font-weight:bold;*/
+/*	color:#FFF;*/
+/*	text-decoration:none;*/
+/*} @media screen and (max-width:600px) {#header h1 a {font-size:9vw;}}*/
+
+#banner {
 	position:absolute;
 	background-size:200px 220px;
-	background:url(header-logo.png) no-repeat;
+	background:url(header-banner.png) no-repeat;
 	width:200px;
 	height:220px;
-	left:50%;
-	margin-left:-100px;
-	top:60px;
+	left:95%;
+	margin-left:-200px;
+	top:0;
 	z-index:9999;
+}
+
+nav {
+	max-width:800px;
+	margin:20px auto;
 }
 
 #wrapper {

@@ -13,23 +13,23 @@ p {
 	text-align:justify;
 }
 
-#header {
-	background:#000;
-	height:250px;
-	background:url(header-bg.png) bottom repeat-x #000;
-	width:100%;
-	margin:0 auto;
-	text-align:center;
-	position:relative;
-}
-
-#header h1 a.title {
-	font-family:Roboto Slab, Verdana, sans-serif !important;
-	font-size:60px;
-	font-weight:bold;
-	color:#FFF;
-	text-decoration:none;
-} @media screen and (max-width:600px) {#header h1 a {font-size:9vw;}}
+//#header {
+//	background:#000;
+//	height:250px;
+//	background:url(header-bg.png) bottom repeat-x #000;
+//	width:100%;
+//	margin:0 auto;
+//	text-align:center;
+//	position:relative;
+//}
+//
+//#header h1 a.title {
+//	font-family:Roboto Slab, Verdana, sans-serif !important;
+//	font-size:60px;
+//	font-weight:bold;
+//	color:#FFF;
+//	text-decoration:none;
+//} @media screen and (max-width:600px) {#header h1 a {font-size:9vw;}}
 
 #logo {
 	position:absolute;
