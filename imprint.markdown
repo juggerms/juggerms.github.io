@@ -7,7 +7,8 @@ permalink: /imprint/
 ## Angaben gemäß § 5 TMG:
 
 Jugger Münster e.V.
-Gemenweg 14
+c/o Lukas Middendorf
+Correnstr. 88
 48149 Münster
 
 ## Vertreten durch:
