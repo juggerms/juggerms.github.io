@@ -16,4 +16,4 @@ Die genauen Orte und Treffpunkte könnt ihr euch auf der nachfolgenden Karte ans
 Da wir Sommer wie Winter oft auf Turniere fahren und an den entsprechenden Wochenenden das Training ausfällt,
 solltet ihr euch bei Interesse vorher bei uns melden:  [vorstand [at] jugger-muenster.de](vorstand@jugger-muenster.de)
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1ItXdHt4LITyJr3uKbfTh02Tr8lLqO4Rk" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1qL36gfAL0jw10x_01E9D64y7XCuupB8" width="640" height="480"></iframe>
