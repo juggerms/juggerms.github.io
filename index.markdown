@@ -5,11 +5,11 @@
 layout: home
 title: Training
 ---
-**Trainingszeiten Sommer 2023 (ab 01.04.2023)**
+**Trainingszeiten Winter 2023-24 (ab 01.10.2023)**
 
-Sonntags 14-16 Uhr im Wienburgpark
+Sonntags 14-16 Uhr in der Turnhalle der Overbergschule (Wolbecker Straße)
 
-Donnerstags 18-20 Uhr am Grünen Grund
+Mittwochs 18-20 Uhr in der Turnhalle des CVJM Münster (Merschkamp)
 
 Die genauen Orte und Treffpunkte könnt ihr euch auf der nachfolgenden Karte anschauen.
 
