@@ -5,44 +5,76 @@
 layout: home
 title: Training
 tileclasses: div-3
+trainingsort1: Overbergschule
+trainingstag1: Sonntags
+trainingszeit1: 14:00 bis 16:00Uhr
+trainingsort2: CVJM Münster
+trainingstag2: Mittwochs
+trainingszeit2: 18:00 bis 20:00Uhr
 ---
-Trainingszeiten
-==============
 
-Wienburgpark
-------------
+[//]: # (Trainingszeiten)
 
-**Sonntags** 10:00 bis 12:00Uhr
+[//]: # (==============)
 
-**Trainer** wechselnd
-<div>
-<iframe src="https://www.google.com/maps/d/embed?mid=1ItXdHt4LITyJr3uKbfTh02Tr8lLqO4Rk" width="640" height="480"></iframe>
+[//]: # ()
+[//]: # (Wienburgpark)
 
-Wienburgpark
-------
+[//]: # (------------)
 
-**Sonntags** 10:00 bis 12:00Uhr
+[//]: # ()
+[//]: # (**Sonntags** 10:00 bis 12:00Uhr)
 
-**Trainer** wechselnd
-</div>
+[//]: # ()
+[//]: # (**Trainer** wechselnd)
 
-<div>
-<iframe src="https://www.google.com/maps/d/embed?mid=1ItXdHt4LITyJr3uKbfTh02Tr8lLqO4Rk" width="640" height="480"></iframe>
+[//]: # (<div>)
 
-Am Grünen Grund
-------------
-**Donnerstags** 18:00 bis 20:00Uhr
-**Trainer** wechselnd
-</div>
+[//]: # (<iframe src="https://www.google.com/maps/d/embed?mid=1ItXdHt4LITyJr3uKbfTh02Tr8lLqO4Rk" width="640" height="480"></iframe>)
 
-{% capture first-section %}
+[//]: # ()
+[//]: # (Wienburgpark)
 
-Here is my first section content!
+[//]: # (------)
 
-{% endcapture %}
+[//]: # ()
+[//]: # (**Sonntags** 10:00 bis 12:00Uhr)
 
-{% capture second-section %}
+[//]: # ()
+[//]: # (**Trainer** wechselnd)
 
-Here is the second section!
+[//]: # (</div>)
 
-{% endcapture %}
+[//]: # ()
+[//]: # (<div>)
+
+[//]: # (<iframe src="https://www.google.com/maps/d/embed?mid=1ItXdHt4LITyJr3uKbfTh02Tr8lLqO4Rk" width="640" height="480"></iframe>)
+
+[//]: # ()
+[//]: # (Am Grünen Grund)
+
+[//]: # (------------)
+
+[//]: # (**Donnerstags** 18:00 bis 20:00Uhr)
+
+[//]: # (**Trainer** wechselnd)
+
+[//]: # (</div>)
+
+[//]: # ()
+[//]: # ({% capture first-section %})
+
+[//]: # ()
+[//]: # (Here is my first section content!)
+
+[//]: # ()
+[//]: # ({% endcapture %})
+
+[//]: # ()
+[//]: # ({% capture second-section %})
+
+[//]: # ()
+[//]: # (Here is the second section!)
+
+[//]: # ()
+[//]: # ({% endcapture %})
