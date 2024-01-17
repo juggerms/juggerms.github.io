@@ -108,11 +108,23 @@
   align-items: flex-start;
   gap: 32px;
   display: flex;
+  position: relative;
 
   .divider {
     width: 1384px;
     height: 0px;
     border: 1px $base-color solid
+  }
+
+  .rectangles {
+    position: absolute;
+    top: -32px;
+    align-self: stretch;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+    gap: 8px;
+    display: flex
   }
 }
 
@@ -190,6 +202,10 @@
   background: $base-black
 }
 
+.bcNone {
+  opacity: 0;
+}
+
 .cWhite {
   color: white
 }
@@ -203,8 +219,8 @@
 }
 
 a:link, a:visited, a:active, a:hover {
-    text-decoration: none;
-    color: inherit !important;
+  text-decoration: none;
+  color: inherit !important;
 }
 
 .noLink {
