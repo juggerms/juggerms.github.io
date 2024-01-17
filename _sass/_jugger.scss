@@ -100,7 +100,7 @@
 
 .footer {
   align-self: stretch;
-  height: 600px;
+  height: 360px;
   padding: 64px;
   background: #171715;
   flex-direction: column;
@@ -200,6 +200,15 @@
 
 .cBlack {
   color: $base-black
+}
+
+a:link, a:visited, a:active, a:hover {
+    text-decoration: none;
+    color: inherit !important;
+}
+
+.noLink {
+  opacity: 50%;
 }
 
 /*.inner-centered {*/
