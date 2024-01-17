@@ -37,7 +37,7 @@
   height: 100vh;
   padding-left: 64px;
   padding-right: 64px;
-  background: #FE3232;
+  background: $base-color;
   flex-direction: column;
   justify-content: space-between;
   align-items: flex-start;
@@ -111,6 +111,8 @@
 
   .divider {
     width: 1384px;
+    height: 0px;
+    border: 1px $base-color solid
   }
 }
 
@@ -156,6 +158,48 @@
   position: absolute;
   right: -48px;
   top: 32px;
+}
+
+.section1 {
+  align-self: stretch;
+  height: 982px;
+  padding-left: 64px;
+  padding-right: 64px;
+  background: $base-color;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  display: flex
+}
+
+.rectangle {
+  width: 32px;
+  height: 32px;
+  z-index: 2;
+}
+
+.bcWhite {
+  background: white
+}
+
+.bcBase {
+  background: $base-color
+}
+
+.bcBlack {
+  background: $base-black
+}
+
+.cWhite {
+  color: white
+}
+
+.cBase {
+  color: $base-color
+}
+
+.cBlack {
+  color: $base-black
 }
 
 /*.inner-centered {*/
