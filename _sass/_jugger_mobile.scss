@@ -1,0 +1,90 @@
+@media (max-width: 1300px) {
+  .footer {
+
+    .rectangles {
+      top: -1.5em;
+    }
+
+    .arrowFooter {
+      transform: scale(85%);
+    }
+  }
+
+  .rectangle {
+    width: 1.5em;
+    height: 1.5em;
+  }
+}
+
+@media (max-width: 900px) {
+
+  .jugWrapper {
+    padding: 5% 5%;
+    width: calc(100vw - 10%);
+    height: calc(100vh - 10%);
+    position: relative;
+  }
+
+  .jugFrameTitel {
+    padding-bottom: 0px;
+    //gap: 0;
+  }
+
+  .jugScrollDown {
+    z-index: 5;
+  }
+
+
+
+  .hero {
+
+    .JuggerMNsterEV {
+      font-size: 8vh;
+      font-family: Odibee Sans;
+      font-weight: 400;
+      text-transform: uppercase;
+      line-height: 8vh;
+      word-wrap: break-word
+    }
+  }
+
+  .footer {
+    padding: 5%;
+    width: 90%;
+
+    .rectangles {
+      top: -1.2em;
+    }
+    .divider {
+      width: 90vw;
+    }
+
+    .arrowFooter {
+      transform: scale(70%);
+    }
+  }
+
+  .rectangle {
+    width: 1.2em;
+    height: 1.2em;
+  }
+
+}
+
+@media (max-width: 600px) {
+  .footer {
+
+    .rectangles {
+      top: -0.9em;
+    }
+
+    .arrowFooter {
+      transform: scale(50%);
+    }
+  }
+
+  .rectangle {
+    width: 0.9em;
+    height: 0.9em;
+  }
+}
