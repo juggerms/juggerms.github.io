@@ -14,6 +14,14 @@
     width: 1.5em;
     height: 1.5em;
   }
+
+  .training-content {
+    width: calc(50% - 32px);
+  }
+
+  .section1 {
+    height: 1100px;
+  }
 }
 
 @media (max-width: 900px) {
@@ -67,6 +75,14 @@
   .rectangle {
     width: 1.2em;
     height: 1.2em;
+  }
+
+  .section1 {
+    height: 1700px;
+  }
+
+  .training-content {
+    width: calc(100% - 64px);
   }
 
 }

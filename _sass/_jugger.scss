@@ -158,7 +158,7 @@ h1 {
 
 .section1 {
   align-self: stretch;
-  height: 982px;
+  height: 880px;
   padding-left: 64px;
   padding-right: 64px;
   background: $base-color;
@@ -166,6 +166,24 @@ h1 {
   justify-content: space-between;
   align-items: flex-start;
   display: flex
+}
+
+.training-container {
+  align-self: stretch;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 64px;
+  display: inline-flex
+}
+
+.training-content {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 16px;
+  display: inline-flex;
+  width: calc(33% - 21px);
 }
 
 .footer {
@@ -253,6 +271,13 @@ a:link, a:visited, a:active, a:hover {
 
 .noLink {
   opacity: 50%;
+}
+
+.footer-link {
+  font-size: 16px;
+  font-family: Roboto;
+  font-weight: 400;
+  word-wrap: break-word;
 }
 
 /* Border with base color */
