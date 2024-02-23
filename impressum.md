@@ -7,7 +7,7 @@ permalink: /impressum/
 ## Angaben gemäß § 5 TMG:
 
 Jugger Münster e.V.
-Gemenweg 14
+Corrensstrase 88
 48149 Münster
 
 ## Vertreten durch:
