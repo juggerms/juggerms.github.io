@@ -1,24 +1,27 @@
 <script type="text/javascript">
     function resetYouTubeIframe(elem) {
         var parent = elem.parentNode;
-        elem.width = parent.clientWidth;
-        elem.height = parent.clientWidth * 2/3;
+        var width = Math.min(800,parent.clientWidth);
+        elem.width = width;
+        elem.height = width * 2/3;
     }
     function setYouTubeIframeWidth(elem) {
-        resetIframeWidth(elem);
+        resetYouTubeIframe(elem);
         window.addEventListener("resize", function() {resetYouTubeIframe(elem)});
     }
 
 </script>
 
-<div class="Section2 bcSecondary" style="align-self: stretch; height: 600px; padding-top: 64px; padding-left: 64px; padding-right: 64px; flex-direction: column; justify-content: space-between; align-items: flex-start; display: flex; position: relative;">
-    <div class="Frame22 bcSecondary" style="align-self: stretch; height: 400px; width: 100%; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
-        <iframe height="400px" onload="setYouTubeIframeWidth(this)" src="https://www.youtube.com/embed/cQqLVYiQzxY?si=ahQzPlHMur4ZBCb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-        <div class="Frame21" style="padding-left: 128px; padding-right: 128px; justify-content: flex-start; align-items: center; gap: 194px; display: inline-flex;position: absolute;
-        right: 0px; top: 64px; z-index: 2; width: 600px">
-            <div class="Frame20" style="padding-top: 64px; padding-bottom: 64px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 32px; display: inline-flex">
-                <div class="MachDirEinBild cBase" style="font-size: 96px; font-family: Odibee Sans; font-weight: 400; text-transform: uppercase; word-wrap: break-word">Mach dir ein Bild</div>
-            </div>
+<div class="Section2 bcSecondary">
+    <div class="section-container bcSecondary">
+        <div class="inner-container2">
+            <iframe height="400px" onload="setYouTubeIframeWidth(this)" src="https://www.youtube.com/embed/cQqLVYiQzxY?si=ahQzPlHMur4ZBCb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<!--            <div class="Frame21" style="padding-left: 128px; padding-right: 128px; justify-content: flex-start; align-items: center; gap: 194px; display: inline-flex;position: absolute;-->
+<!--            right: 0px; top: 64px; z-index: 2; width: 600px">-->
+<!--                <div class="Frame20" style="padding-top: 64px; padding-bottom: 64px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 32px; display: inline-flex">-->
+<!--                    <div class="MachDirEinBild cBase" style="font-size: 96px; font-family: Odibee Sans; font-weight: 400; text-transform: uppercase; word-wrap: break-word">Mach dir ein Bild</div>-->
+<!--                </div>-->
+<!--            </div>-->
         </div>
     </div>
 
