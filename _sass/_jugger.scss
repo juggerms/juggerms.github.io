@@ -186,6 +186,13 @@ h1 {
   display: inline-flex
 }
 
+.section1.two-column {
+  height: 800px;
+  .training-content {
+    width: calc(50% - 32px);
+  }
+}
+
 .training-content {
   flex-direction: column;
   justify-content: flex-start;

@@ -9,6 +9,7 @@ trainingsort1: Overbergschule
 trainingstag1: Sonntags
 trainingszeit1: 14:00 bis 16:00Uhr
 trainingsort2: CVJM Münster
+#trainingsort2:
 trainingstag2: Mittwochs
 trainingszeit2: 18:00 bis 20:00Uhr
 ---
