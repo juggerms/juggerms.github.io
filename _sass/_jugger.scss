@@ -108,7 +108,13 @@ h1 {
     font-weight: 400;
     text-transform: uppercase;
     line-height: 1.5;
-    word-wrap: break-word
+    word-wrap: break-word;
+    /* 1 pixel black shadow to left, top, right and bottom */
+    text-shadow: -0.6px 0 #444, 0 0.6px #444, 0.6px 0 #444, 0 -0.6px #444;
+  }
+
+  .Seit2009 {
+    text-shadow: -0.3px 0 #444, 0 0.3px #444, 0.3px 0 #444, 0 -0.3px #444;
   }
 }
 
@@ -333,7 +339,7 @@ h1 {
 }
 
 .cWhite {
-  color: white
+  color: $base-white
 }
 
 .cBase {
