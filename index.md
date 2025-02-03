@@ -7,11 +7,11 @@ title: Training
 tileclasses: div-3
 trainingsort1: Wienburgpark
 trainingstag1: Sonntags
-trainingszeit1: 14:00 bis 16:00 Uhr
+trainingszeit1: 12:00 bis 14:00 Uhr
 trainingsort2: CVJM Münster
 #trainingsort2:
 trainingstag2: Mittwochs
-trainingszeit2: 19:00 bis 21:00 Uhr (nach Anfrage)
+trainingszeit2: 20:00 bis 21:00 Uhr (nach Anfrage)
 ---
 
 [//]: # (Trainingszeiten)
